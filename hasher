@@ -1,3 +1,5 @@
+print("funny")
+
 if _G.PasswordTextBox == "cylindrical100"
 then _G.EnteredKey = true
 print("Checked Pass")
