@@ -1,6 +1,6 @@
 if _G.PasswordTextBox = "cylindrical100"
 then _G.EnteredKey = true
-
+print("Checked Pass")
 else
 
 _G.EnteredKey = false
