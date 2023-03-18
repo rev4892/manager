@@ -1,9 +1,15 @@
 
 
-if _G.PasswordTextBox == "cylindrical100"
+if _G.PasswordTextBox == "cylindrical100" 
 then _G.EnteredKey = true
+
+
+else
+if _G.PasswordTextBox == "heavyhitler" then
+_G.EnteredKey = true
 
 else
 
-_G.EnteredKey = false
+_G.EnteredKet = false
+end
 end
