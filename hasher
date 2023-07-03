@@ -10,6 +10,6 @@ _G.EnteredKey = true
 
 else
 
-_G.EnteredKet = false
+_G.EnteredKey = false
 end
 end
