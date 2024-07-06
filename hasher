@@ -1,11 +1,11 @@
 
 
-if _G.PasswordTextBox == "5758092" 
+if _G.PasswordTextBox == "revtheog" 
 then _G.EnteredKey = true
 
 
 else
-if _G.PasswordTextBox == "dontshowthis" then
+if _G.PasswordTextBox == "AdminCode" then
 _G.EnteredKey = true
 
 else
